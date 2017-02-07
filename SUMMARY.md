@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Alfrd](alfred.md)
+* [BetterTouchTool](bettertouchtool.md)
+
