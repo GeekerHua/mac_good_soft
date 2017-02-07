@@ -19,4 +19,30 @@
 * Boom2最美音响
 * duet外接ipad为显示器
 * Snip滚动截屏
+* IINA秒杀QuickTime的播放器
+* Aria2GUI下载器
+* Downie下载700+网站视频
+* OmniFocus最牛GTD
+* OmniPlan最牛项目管理
+* OmniOutliner大纲工具
+* OmniGraffle画图
+* Xmind好用的思维导图
+* MacDown轻量Markdown编辑器
+* Ulysses最好用的写书神器
+* MarkEditor最强功能文本编辑器
+* Mweb跨平台书写工具
+* Day One最方便的日记
+* Evernote第二大脑
+* RainDrop.io未来的书签管理
+* Reeder最优体验的RSS订阅器
+* Clearview好用的电子书管理器
+* ImageOptim优秀小巧图片压缩器
+* Waltr2\(iPhone文件传输\)
+* iMazing\(iPhone增量备份\)
+* oulu欧陆词典\(最好的词典\)
+* GitBook开源电子书编辑器
+* Dash程序员API查看器
+* Paw调试API工具
+* Postman在线的API调试工具
+* Charles抓包工具
 
