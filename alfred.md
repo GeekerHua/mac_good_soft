@@ -1,3 +1,11 @@
-# First Chapter
+# Alfred效率神器，没有之一
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Alfred被称为Mac中的效率神器，没有之一，一点都不为过。MalTalk作者也多次推荐这款软件，少数派也有很多关于这个软件的教程及分享。可见这个软件的确有它的神器之处。
+
+## 功能定位
+
+## 相关资料
+- 官网：
+- 价格：
+- 平台：
+

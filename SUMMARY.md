@@ -6,7 +6,7 @@
 * [Yoink剪切中转站](yoink.md)
 * [Archiver解压缩](archiver.md)
 * Bartender2状态栏图标收纳
-* Lantern神灯
+* [Lantern神灯](lantern.md)
 * iTerm超级终端
 * 1Password密码管理
 * [TotalFinder\(Finder增强\).md\)](totalfinder(finder)
