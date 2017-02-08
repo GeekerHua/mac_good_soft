@@ -22,7 +22,7 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
     |Single Licence:单用户许可   |`£19`|
     |Family Licence:家庭许可    |`£29`|
     |Mega Licence:单用户永久许可 | `£39`|
-- 平台：仅支持MacOS平台，Windows平台也有类似的软件[Wox](https://github.com/Wox-launcher/Wox)。
+- 平台：仅支持MacOS平台，Windows平台也有类似的软件[Wox](https://github.com/Wox-launcher/Wox),[Github](http://www.getwox.com),[参考文章](http://sspai.com/33460)。
 - 版本：最新版本为3.3。
 
 ## 最优化设置
@@ -44,8 +44,18 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 ## workflow
 
 ### 常用workflow
-
+- [packal](http://www.packal.org)：Alfred的workflow管理工具，能够搜索、添加、删除workflow等，必备。
+- [TripMode](http://www.packal.org/workflow/tripmode)：TripMode开关
+- [ariafre](http://www.packal.org/workflow/ariafre)：管理Aria2下载
 ### 学习制作workflow
 
 ## 相关资源
+### [少数派上的评测及教程](http://sspai.com/tag/alfred)
+- [使用 Alfred 提高你的工作效率 | Matrix 精选](http://sspai.com/35927)
+- [它已不仅仅是一款 Mac 效率启动器：Alfred 3.0 新版详解](http://sspai.com/34468)
+- [减少点击跳转：5 款提高操作效率的 Alfred 扩展推荐](http://sspai.com/33279)
+- [从零开始学习 Alfred：基础功能及设置](http://sspai.com/32979)
+
+还有很多
+
 
