@@ -22,7 +22,7 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
     |Single Licence:单用户许可   |`£19`|
     |Family Licence:家庭许可    |`£29`|
     |Mega Licence:单用户永久许可 | `£39`|
-- 平台：仅支持MacOS平台，Windows平台也有类似的软件。
+- 平台：仅支持MacOS平台，Windows平台也有类似的软件[Wox](https://github.com/Wox-launcher/Wox)。
 - 版本：最新版本为3.3。
 
 ## 最优化设置
