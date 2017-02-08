@@ -14,7 +14,7 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 
 
 ## 相关资料
-- 官网：[www.alfred.com]()
+- 官网：<http://www.alfred.com>
 - 价格：软件免费，但限制高级功能，购买Powerpack可解锁全部功能。
     - single Licence:单用户许可
     - family Licence:家庭许可
