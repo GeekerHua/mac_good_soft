@@ -16,13 +16,14 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 ## 相关资料
 - 官网：<https://www.alfredapp.com>
 - 价格：软件免费，但限制高级功能，购买Powerpack可解锁全部功能。
-    - single Licence:单用户许可
-    - family Licence:家庭许可
-    - Mega Licence:单用户永久许可
+    ![](/assets/AlfredPowerpack.jpg)
+    |类型 |价格|
+    |----|---|
+    |Single Licence:单用户许可   |`£19`|
+    |Family Licence:家庭许可    |`£29`|
+    |Mega Licence:单用户永久许可 | `£39`|
 - 平台：仅支持MacOS平台，Windows平台也有类似的软件。
 - 版本：最新版本为3.1.x。
-
-![](/assets/AlfredPowerpack.jpg)
 
 ## 最优化设置
 - 启动：`option` + 空格
