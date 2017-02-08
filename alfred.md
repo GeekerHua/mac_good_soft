@@ -16,13 +16,22 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
     - single Licence:单用户许可
     - family Licence:家庭许可
     - Mega Licence:单用户永久许可
-- 平台：仅支持Mac OS平台，Windows平台也有类似的软件。
+- 平台：仅支持MacOS平台，Windows平台也有类似的软件。
 - 版本：最新版本为3.1.x。
 
 ## 最优化设置
+- 启动：option + 空格
+- 同步：syncing：Set sync folder 把同步文件设置到iCloud中即可保持同步备份。
+- 权限：
+    - 开机自启动：勾选开机自启动；
+    - 授权控制电脑权限，软件会运行脚本，调用系统API，因此需要权限。
 
 ## 基础功能 
 
+## 付费解锁功能
+- workflow功能
+- 执行终端命令
+- 查看1Password
 
 ## workflow
 
