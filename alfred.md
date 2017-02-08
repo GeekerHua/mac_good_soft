@@ -11,7 +11,7 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 
 
 ## 相关资料
-- 官网：
+- 官网：[www.alfred.com]()
 - 价格：软件免费，但限制高级功能，购买Powerpack可解锁全部功能。
     - single Licence:单用户许可
     - family Licence:家庭许可
@@ -20,8 +20,8 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 - 版本：最新版本为3.1.x。
 
 ## 最优化设置
-- 启动：option + 空格
-- 同步：syncing：Set sync folder 把同步文件设置到iCloud中即可保持同步备份。
+- 启动：`option` + 空格
+- 同步(syncing)：Set sync folder 把同步文件设置到iCloud中即可保持同步备份。
 - 权限：
     - 开机自启动：勾选开机自启动；
     - 授权控制电脑权限，软件会运行脚本，调用系统API，因此需要权限。
