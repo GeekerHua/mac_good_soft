@@ -47,6 +47,8 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 - [packal](http://www.packal.org)：Alfred的workflow管理工具，能够搜索、添加、删除workflow等，必备。
 - [TripMode](http://www.packal.org/workflow/tripmode)：TripMode开关
 - [ariafre](http://www.packal.org/workflow/ariafre)：管理Aria2下载
+- [Evernote](http://www.packal.org/workflow/evernote)：印象笔记工具
+
 ### 学习制作workflow
 
 ## 相关资源
