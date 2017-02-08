@@ -22,6 +22,8 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 - 平台：仅支持MacOS平台，Windows平台也有类似的软件。
 - 版本：最新版本为3.1.x。
 
+![](/assets/AlfredPowerpack.jpg)
+
 ## 最优化设置
 - 启动：`option` + 空格
 - 同步(syncing)：在`Advanced`选项卡中点击`Set sync folder`按钮把同步文件设置到iCloud中即可保持同步备份。
