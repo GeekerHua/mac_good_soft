@@ -41,8 +41,9 @@
 * iMazing\(iPhone增量备份\)
 * oulu欧陆词典\(最好的词典\)
 * GitBook开源电子书编辑器
-* Dash程序员API查看器
+* [Dash程序员API查看器](dashapi.md)
 * Paw调试API工具
 * Postman在线的API调试工具
 * Charles抓包工具
+* Paste高颜值剪切板
 
