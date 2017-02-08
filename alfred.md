@@ -21,7 +21,7 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 
 ## 最优化设置
 - 启动：`option` + 空格
-- 同步(syncing)：Set sync folder 把同步文件设置到iCloud中即可保持同步备份。
+- 同步(syncing)：在`Advanced`选项卡中点击`Set sync folder`按钮把同步文件设置到iCloud中即可保持同步备份。
 - 权限：
     - 开机自启动：勾选开机自启动；
     - 授权控制电脑权限，软件会运行脚本，调用系统API，因此需要权限。
