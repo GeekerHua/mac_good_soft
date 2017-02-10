@@ -4,8 +4,34 @@
 
 系统默认的触控功能相比于PC，已经是秒杀级别了，这也让鼠标不在成为标配成了可能。BetterTouchTool则扩展可触控板的功能，能够制定1-5根手指的近百种手势，这样很多常用功能就可以简单的由收拾代替，能够大大提高日常使用的效率。
 
-## 功能定位
 
-
+# 功能定位
 
 ## 相关资料
+- 推荐：★★★★★
+- 官网：https://www.boastr.net
+- 价格：软件需要付费，但有意思的是，个人的许可不是固定价格。$6-$10都可以获得完全一样的个人许可。
+    ![](/assets/BTTBuy.jpg)
+- 平台：Mac + iOS。iOS版本为远程控制，从效率的角度，不推荐使用。
+- 版本：最新版本为2.02。
+- 推荐：★★★★★
+
+## 最优化设置
+![](/assets/BTTInfo.jpg)
+![](/assets/BTTSetting.jpg)
+![](/assets/BTTSetting2.jpg)
+
+## 基础功能
+对于Mac笔记本来说，该软件的核心功能就是触控板的增强，与snap Areas功能
+![](/assets/BTTUse.jpg)
+![](/assets/BTTAction.jpg)
+
+
+## 付费解锁功能
+- workflow功能
+- 执行终端命令
+- 查看1Password
+
+
+
+## 相关资源

@@ -14,6 +14,7 @@ Mac下自带一个功能强大的搜索工具Spotlight，能够实现全局文�
 
 
 ## 相关资料
+- 推荐：★★★★★
 - 官网：<https://www.alfredapp.com>
 - 价格：软件免费，但限制高级功能，购买Powerpack可解锁全部功能。
     ![](/assets/AlfredPowerpack.jpg)
