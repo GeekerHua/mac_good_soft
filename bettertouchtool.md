@@ -18,20 +18,18 @@
 
 ## 最优化设置
 ![](/assets/BTTInfo.jpg)
+开启snap Areas功能，能够实现类似Windows7+ 的窗口侧边停靠功能。而且更加强大，能够自定义左右分屏的比例，还能实现屏幕四个角的分屏功能。
+
 ![](/assets/BTTSetting.jpg)
 ![](/assets/BTTSetting2.jpg)
 
 ## 基础功能
-对于Mac笔记本来说，该软件的核心功能就是触控板的增强，与snap Areas功能
+对于Mac笔记本来说，该软件的核心功能就是触控板的增强，与snap Areas功能。
+
+![](/assets/BTTInfo.jpg)
 ![](/assets/BTTUse.jpg)
+支持众多的系统功能映射
 ![](/assets/BTTAction.jpg)
-
-
-## 付费解锁功能
-- workflow功能
-- 执行终端命令
-- 查看1Password
-
 
 
 ## 相关资源
