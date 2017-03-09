@@ -5,7 +5,7 @@
 * [BetterTouchTool触摸板增强](bettertouchtool.md)
 * [Yoink剪切中转站](yoink.md)
 * [Archiver解压缩](archiver.md)
-* [Bartender2状态栏图标收纳](bartender2.md)
+* [Bartender2菜单栏图标收纳](bartender2.md)
 * [Lantern神灯](lantern.md)
 * iTerm超级终端
 * 1Password密码管理
